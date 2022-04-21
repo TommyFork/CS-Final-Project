@@ -1,0 +1,44 @@
+{'element': 'url', 'value': 'https://ark.intel.com/products/126695/intel-core-i9-7940x-x-series-processor-19-25m-cache-up-to-4-30-ghz.html'}
+{'element': 'Product Collection', 'value': 'Intel® Core™ X-series Processors'}
+{'element': 'Code Name', 'value': 'Products formerly Skylake'}
+{'element': 'Vertical Segment', 'value': 'Desktop'}
+{'element': 'Processor Number', 'value': 'i9-7940X'}
+{'element': 'Status', 'value': 'Discontinued'}
+{'element': 'Launch Date', 'value': "Q3'17"}
+{'element': 'Included Items', 'value': 'Please note: The boxed product does not include a fan or heat sink'}
+{'element': 'Total Cores', 'value': '14'}
+{'element': 'Total Threads', 'value': '28'}
+{'element': 'Max Turbo Frequency', 'value': '4.30 GHz'}
+{'element': 'Intel® Turbo Boost Max Technology 3.0 Frequency ‡', 'value': '4.40 GHz'}
+{'element': 'Processor Base Frequency', 'value': '3.10 GHz'}
+{'element': 'Cache', 'value': '19.25 MB'}
+{'element': 'Bus Speed', 'value': '8 GT/s'}
+{'element': '# of QPI Links', 'value': '0'}
+{'element': 'TDP', 'value': '165 W'}
+{'element': 'Embedded Options Available', 'value': 'No'}
+{'element': 'Datasheet', 'value': 'View now'}
+{'element': 'Product Brief', 'value': 'View now'}
+{'element': 'Max Memory Size (dependent on memory type)', 'value': '128 GB'}
+{'element': 'Memory Types', 'value': 'DDR4-2666'}
+{'element': 'Max # of Memory Channels', 'value': '4'}
+{'element': 'Max Memory Bandwidth', 'value': '85 GB/s'}
+{'element': 'ECC Memory Supported ‡', 'value': 'No'}
+{'element': 'Scalability', 'value': '1S Only'}
+{'element': 'PCI Express Revision', 'value': '3.0'}
+{'element': 'Max # of PCI Express Lanes', 'value': '44'}
+{'element': 'Sockets Supported', 'value': 'FCLGA2066'}
+{'element': 'Max CPU Configuration', 'value': '1'}
+{'element': 'Thermal Solution Specification', 'value': 'PCG 2017X'}
+{'element': 'TJUNCTION', 'value': '102°C'}
+{'element': 'Intel® Optane™ Memory Supported ‡', 'value': 'Yes'}
+{'element': 'Intel® Turbo Boost Max Technology 3.0 ‡', 'value': 'Yes'}
+{'element': 'Intel® Turbo Boost Technology ‡', 'value': '2.0'}
+{'element': 'Intel® Hyper-Threading Technology ‡', 'value': 'Yes'}
+{'element': 'Intel® 64 ‡', 'value': 'Yes'}
+{'element': 'Instruction Set Extensions', 'value': 'Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512'}
+{'element': '# of AVX-512 FMA Units', 'value': '2'}
+{'element': 'Enhanced Intel SpeedStep® Technology', 'value': 'Yes'}
+{'element': 'Intel® AES New Instructions', 'value': 'Yes'}
+{'element': 'Execute Disable Bit ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology (VT-x) ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology for Directed I/O (VT-d) ‡', 'value': 'Yes'}

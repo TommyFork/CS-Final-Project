@@ -1,0 +1,78 @@
+{'element': 'url', 'value': 'https://ark.intel.com/content/www/us/en/ark/products/196455/intel-core-i310110y-processor-4m-cache-up-to-4-00ghz.html'}
+{'element': 'Product Collection', 'value': '10th Generation Intel® Core™ i3 Processors'}
+{'element': 'Code Name', 'value': 'Products formerly Amber Lake Y'}
+{'element': 'Vertical Segment', 'value': 'Mobile'}
+{'element': 'Processor Number', 'value': 'i3-10110Y'}
+{'element': 'Status', 'value': 'Launched'}
+{'element': 'Launch Date', 'value': "Q3'19"}
+{'element': 'Lithography', 'value': '14 nm'}
+{'element': 'Recommended Customer Price', 'value': '$287.00'}
+{'element': 'Total Cores', 'value': '2'}
+{'element': 'Total Threads', 'value': '4'}
+{'element': 'Max Turbo Frequency', 'value': '4.00 GHz'}
+{'element': 'Processor Base Frequency', 'value': '1.00 GHz'}
+{'element': 'Cache', 'value': '4 MB Intel® Smart Cache'}
+{'element': 'Bus Speed', 'value': '4 GT/s'}
+{'element': 'TDP', 'value': '7 W'}
+{'element': 'Configurable TDP-up Base Frequency', 'value': '1.50 GHz'}
+{'element': 'Configurable TDP-up', 'value': '9 W'}
+{'element': 'Configurable TDP-down Base Frequency', 'value': '700 MHz'}
+{'element': 'Configurable TDP-down', 'value': '5.5 W'}
+{'element': 'Embedded Options Available', 'value': 'No'}
+{'element': 'Datasheet', 'value': 'View now'}
+{'element': 'Max Memory Size (dependent on memory type)', 'value': '16 GB'}
+{'element': 'Memory Types', 'value': 'LPDDR3-2133, DDR3L-1600'}
+{'element': 'Max # of Memory Channels', 'value': '2'}
+{'element': 'Max Memory Bandwidth', 'value': '33.33 GB/s'}
+{'element': 'ECC Memory Supported ‡', 'value': 'No'}
+{'element': 'Processor Graphics ‡', 'value': 'Intel® UHD Graphics for 10th Gen Intel® Processors'}
+{'element': 'Graphics Base Frequency', 'value': '300 MHz'}
+{'element': 'Graphics Max Dynamic Frequency', 'value': '1.00 GHz'}
+{'element': 'Graphics Video Max Memory', 'value': '16 GB'}
+{'element': 'Graphics Output', 'value': 'eDP/DP/HDMI/DVI'}
+{'element': 'Execution Units', 'value': '24'}
+{'element': '4K Support', 'value': 'Yes, at 60Hz'}
+{'element': 'Max Resolution (HDMI)‡', 'value': '4096 x 2304@24Hz'}
+{'element': 'Max Resolution (DP)‡', 'value': '3840 x 2160@60Hz'}
+{'element': 'Max Resolution (eDP - Integrated Flat Panel)‡', 'value': '3840 x 2160@60Hz'}
+{'element': 'DirectX* Support', 'value': '12'}
+{'element': 'OpenGL* Support', 'value': '4.5'}
+{'element': 'Intel® Quick Sync Video', 'value': 'Yes'}
+{'element': 'Intel® Clear Video HD Technology', 'value': 'Yes'}
+{'element': 'Intel® Clear Video Technology', 'value': 'Yes'}
+{'element': '# of Displays Supported ‡', 'value': '3'}
+{'element': 'Device ID', 'value': '0x87CA'}
+{'element': 'PCI Express Revision', 'value': '3.0'}
+{'element': 'PCI Express Configurations ‡', 'value': '1x4, 2x2, 1x2+2x1 and 4x1'}
+{'element': 'Max # of PCI Express Lanes', 'value': '10'}
+{'element': 'Sockets Supported', 'value': 'UTFCBGA1377'}
+{'element': 'Max CPU Configuration', 'value': '1'}
+{'element': 'TJUNCTION', 'value': '100'}
+{'element': 'Package Size', 'value': '26.5mm x 18.5mm'}
+{'element': 'Intel® Speed Shift Technology', 'value': 'Yes'}
+{'element': 'Intel® Thermal Velocity Boost', 'value': 'No'}
+{'element': 'Intel® Turbo Boost Technology ‡', 'value': '2.0'}
+{'element': 'Intel® Hyper-Threading Technology ‡', 'value': 'Yes'}
+{'element': 'Intel® Transactional Synchronization Extensions', 'value': 'No'}
+{'element': 'Intel® 64 ‡', 'value': 'Yes'}
+{'element': 'Instruction Set', 'value': '64-bit'}
+{'element': 'Instruction Set Extensions', 'value': 'Intel® SSE4.1'}
+{'element': 'Idle States', 'value': 'Yes'}
+{'element': 'Enhanced Intel SpeedStep® Technology', 'value': 'Yes'}
+{'element': 'Thermal Monitoring Technologies', 'value': 'Yes'}
+{'element': 'Intel® Flex Memory Access', 'value': 'Yes'}
+{'element': 'Intel® Identity Protection Technology ‡', 'value': 'Yes'}
+{'element': 'Intel® My WiFi Technology', 'value': 'Yes'}
+{'element': 'Intel vPro® Platform Eligibility ‡', 'value': 'No'}
+{'element': 'Intel® AES New Instructions', 'value': 'Yes'}
+{'element': 'Secure Key', 'value': 'Yes'}
+{'element': 'Intel® Software Guard Extensions (Intel® SGX)', 'value': 'Yes with Intel® ME'}
+{'element': 'Intel® Memory Protection Extensions (Intel® MPX)', 'value': 'Yes'}
+{'element': 'Intel® Trusted Execution Technology ‡', 'value': 'No'}
+{'element': 'Execute Disable Bit ‡', 'value': 'Yes'}
+{'element': 'Intel® OS Guard', 'value': 'Yes'}
+{'element': 'Intel® Boot Guard', 'value': 'Yes'}
+{'element': 'Intel® Stable IT Platform Program (SIPP)', 'value': 'No'}
+{'element': 'Intel® Virtualization Technology (VT-x) ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology for Directed I/O (VT-d) ‡', 'value': 'Yes'}
+{'element': 'Intel® VT-x with Extended Page Tables (EPT) ‡', 'value': 'Yes'}

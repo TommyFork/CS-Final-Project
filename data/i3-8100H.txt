@@ -1,0 +1,73 @@
+{'element': 'url', 'value': 'https://ark.intel.com/products/149160/intel-core-i3-8100h-processor-6m-cache-3-00-ghz.html'}
+{'element': 'Product Collection', 'value': '8th Generation Intel® Core™ i3 Processors'}
+{'element': 'Code Name', 'value': 'Products formerly Coffee Lake'}
+{'element': 'Vertical Segment', 'value': 'Mobile'}
+{'element': 'Processor Number', 'value': 'i3-8100H'}
+{'element': 'Status', 'value': 'Launched'}
+{'element': 'Launch Date', 'value': "Q3'18"}
+{'element': 'Lithography', 'value': '14 nm'}
+{'element': 'Use Conditions', 'value': 'Embedded Broad Market Commercial Temp'}
+{'element': 'Recommended Customer Price', 'value': '$225.00'}
+{'element': 'Total Cores', 'value': '4'}
+{'element': 'Total Threads', 'value': '4'}
+{'element': 'Processor Base Frequency', 'value': '3.00 GHz'}
+{'element': 'Cache', 'value': '6 MB Intel® Smart Cache'}
+{'element': 'Bus Speed', 'value': '8 GT/s'}
+{'element': 'TDP', 'value': '45 W'}
+{'element': 'Configurable TDP-down Base Frequency', 'value': '2.60 GHz'}
+{'element': 'Configurable TDP-down', 'value': '35 W'}
+{'element': 'Embedded Options Available', 'value': 'Yes'}
+{'element': 'Datasheet', 'value': 'View now'}
+{'element': 'Max Memory Size (dependent on memory type)', 'value': '64 GB'}
+{'element': 'Memory Types', 'value': 'DDR4-2666'}
+{'element': 'Max # of Memory Channels', 'value': '2'}
+{'element': 'ECC Memory Supported ‡', 'value': 'Yes'}
+{'element': 'Processor Graphics ‡', 'value': 'Intel® UHD Graphics 630'}
+{'element': 'Graphics Base Frequency', 'value': '350 MHz'}
+{'element': 'Graphics Max Dynamic Frequency', 'value': '1.00 GHz'}
+{'element': 'Graphics Video Max Memory', 'value': '64 GB'}
+{'element': 'Graphics Output', 'value': 'eDP/DP/HDMI/DVI'}
+{'element': '4K Support', 'value': 'Yes, at 60Hz'}
+{'element': 'Max Resolution (HDMI)‡', 'value': '4096x2304@30Hz'}
+{'element': 'Max Resolution (DP)‡', 'value': '4096x2304@60Hz'}
+{'element': 'Max Resolution (eDP - Integrated Flat Panel)‡', 'value': '4096x2304@60Hz'}
+{'element': 'DirectX* Support', 'value': '12'}
+{'element': 'OpenGL* Support', 'value': '4.5'}
+{'element': 'Intel® Quick Sync Video', 'value': 'Yes'}
+{'element': 'Intel® InTru™ 3D Technology', 'value': 'Yes'}
+{'element': 'Intel® Clear Video HD Technology', 'value': 'Yes'}
+{'element': 'Intel® Clear Video Technology', 'value': 'Yes'}
+{'element': '# of Displays Supported ‡', 'value': '3'}
+{'element': 'Scalability', 'value': '1S Only'}
+{'element': 'PCI Express Revision', 'value': '3.0'}
+{'element': 'PCI Express Configurations ‡', 'value': 'Up to 1x16,2x8,1x8+2x4'}
+{'element': 'Max # of PCI Express Lanes', 'value': '16'}
+{'element': 'Sockets Supported', 'value': 'FCBGA1440'}
+{'element': 'Max CPU Configuration', 'value': '1'}
+{'element': 'TJUNCTION', 'value': '100°C'}
+{'element': 'Package Size', 'value': '42mm x 28mm'}
+{'element': 'Intel® Optane™ Memory Supported ‡', 'value': 'Yes'}
+{'element': 'Intel® Speed Shift Technology', 'value': 'Yes'}
+{'element': 'Intel® Turbo Boost Technology ‡', 'value': 'No'}
+{'element': 'Intel® Hyper-Threading Technology ‡', 'value': 'No'}
+{'element': 'Intel® Transactional Synchronization Extensions', 'value': 'No'}
+{'element': 'Intel® 64 ‡', 'value': 'Yes'}
+{'element': 'Instruction Set', 'value': '64-bit'}
+{'element': 'Instruction Set Extensions', 'value': 'Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2'}
+{'element': 'Idle States', 'value': 'Yes'}
+{'element': 'Enhanced Intel SpeedStep® Technology', 'value': 'Yes'}
+{'element': 'Thermal Monitoring Technologies', 'value': 'Yes'}
+{'element': 'Intel® Identity Protection Technology ‡', 'value': 'Yes'}
+{'element': 'Intel vPro® Platform Eligibility ‡', 'value': 'No'}
+{'element': 'Intel® AES New Instructions', 'value': 'Yes'}
+{'element': 'Secure Key', 'value': 'Yes'}
+{'element': 'Intel® Software Guard Extensions (Intel® SGX)', 'value': 'Yes with Intel® ME'}
+{'element': 'Intel® Memory Protection Extensions (Intel® MPX)', 'value': 'Yes'}
+{'element': 'Intel® OS Guard', 'value': 'Yes'}
+{'element': 'Intel® Trusted Execution Technology ‡', 'value': 'No'}
+{'element': 'Execute Disable Bit ‡', 'value': 'Yes'}
+{'element': 'Intel® Boot Guard', 'value': 'Yes'}
+{'element': 'Intel® Stable IT Platform Program (SIPP)', 'value': 'No'}
+{'element': 'Intel® Virtualization Technology (VT-x) ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology for Directed I/O (VT-d) ‡', 'value': 'Yes'}
+{'element': 'Intel® VT-x with Extended Page Tables (EPT) ‡', 'value': 'Yes'}

@@ -1,0 +1,44 @@
+{'element': 'url', 'value': 'https://ark.intel.com/products/121499/intel-core-i7-7740x-x-series-processor-8m-cache-up-to-4-50-ghz.html'}
+{'element': 'Product Collection', 'value': 'Intel® Core™ X-series Processors'}
+{'element': 'Code Name', 'value': 'Products formerly Kaby Lake'}
+{'element': 'Vertical Segment', 'value': 'Desktop'}
+{'element': 'Processor Number', 'value': 'i7-7740X'}
+{'element': 'Status', 'value': 'Discontinued'}
+{'element': 'Launch Date', 'value': "Q2'17"}
+{'element': 'Lithography', 'value': '14 nm'}
+{'element': 'Included Items', 'value': 'Please note: The boxed product does not include a fan or heat sink'}
+{'element': 'Recommended Customer Price', 'value': '$339.00'}
+{'element': 'Total Cores', 'value': '4'}
+{'element': 'Total Threads', 'value': '8'}
+{'element': 'Max Turbo Frequency', 'value': '4.50 GHz'}
+{'element': 'Intel® Turbo Boost Technology 2.0 Frequency‡', 'value': '4.50 GHz'}
+{'element': 'Processor Base Frequency', 'value': '4.30 GHz'}
+{'element': 'Cache', 'value': '8 MB'}
+{'element': 'Bus Speed', 'value': '8 GT/s'}
+{'element': '# of QPI Links', 'value': '0'}
+{'element': 'TDP', 'value': '112 W'}
+{'element': 'Embedded Options Available', 'value': 'No'}
+{'element': 'Datasheet', 'value': 'View now'}
+{'element': 'Product Brief', 'value': 'View now'}
+{'element': 'Max Memory Size (dependent on memory type)', 'value': '64 GB'}
+{'element': 'Memory Types', 'value': 'DDR4-2666'}
+{'element': 'Max # of Memory Channels', 'value': '2'}
+{'element': 'Max Memory Bandwidth', 'value': '42 GB/s'}
+{'element': 'ECC Memory Supported ‡', 'value': 'No'}
+{'element': 'Scalability', 'value': '1S Only'}
+{'element': 'PCI Express Revision', 'value': '3.0'}
+{'element': 'PCI Express Configurations ‡', 'value': 'Up to 1x16, 2x8, 1x8+2x4'}
+{'element': 'Max # of PCI Express Lanes', 'value': '16'}
+{'element': 'Sockets Supported', 'value': 'FCLGA2066'}
+{'element': 'Max CPU Configuration', 'value': '1'}
+{'element': 'Thermal Solution Specification', 'value': 'PCG 2017X'}
+{'element': 'TJUNCTION', 'value': '100°C'}
+{'element': 'Intel® Optane™ Memory Supported ‡', 'value': 'Yes'}
+{'element': 'Intel® Turbo Boost Technology ‡', 'value': '2.0'}
+{'element': 'Intel® Hyper-Threading Technology ‡', 'value': 'Yes'}
+{'element': 'Intel® 64 ‡', 'value': 'Yes'}
+{'element': 'Instruction Set', 'value': '64-bit'}
+{'element': 'Instruction Set Extensions', 'value': 'Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2'}
+{'element': 'Intel® AES New Instructions', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology (VT-x) ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology for Directed I/O (VT-d) ‡', 'value': 'Yes'}

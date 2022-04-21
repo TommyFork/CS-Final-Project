@@ -1,0 +1,64 @@
+{'element': 'url', 'value': 'https://ark.intel.com/content/www/us/en/ark/products/134587/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz.html'}
+{'element': 'Product Collection', 'value': '12th Generation Intel® Core™ i5 Processors'}
+{'element': 'Code Name', 'value': 'Products formerly Alder Lake'}
+{'element': 'Vertical Segment', 'value': 'Desktop'}
+{'element': 'Processor Number', 'value': 'i5-12400F'}
+{'element': 'Status', 'value': 'Launched'}
+{'element': 'Launch Date', 'value': "Q1'22"}
+{'element': 'Lithography', 'value': 'Intel 7'}
+{'element': 'Use Conditions', 'value': 'PC/Client/Tablet'}
+{'element': 'Recommended Customer Price', 'value': '$167.00 - $174.00'}
+{'element': 'Total Cores', 'value': '6'}
+{'element': '# of Performance-cores', 'value': '6'}
+{'element': '# of Efficient-cores', 'value': '0'}
+{'element': 'Total Threads', 'value': '12'}
+{'element': 'Max Turbo Frequency', 'value': '4.40 GHz'}
+{'element': 'Performance-core Max Turbo Frequency', 'value': '4.40 GHz'}
+{'element': 'Performance-core Base Frequency', 'value': '2.50 GHz'}
+{'element': 'Cache', 'value': '18 MB Intel® Smart Cache'}
+{'element': 'Total L2 Cache', 'value': '7.5 MB'}
+{'element': 'Processor Base Power', 'value': '65 W'}
+{'element': 'Maximum Turbo Power', 'value': '117 W'}
+{'element': 'Embedded Options Available', 'value': 'No'}
+{'element': 'Datasheet', 'value': 'View now'}
+{'element': 'Max Memory Size (dependent on memory type)', 'value': '128 GB'}
+{'element': 'Memory Types', 'value': 'Up to DDR5 4800 MT/s'}
+{'element': 'Max # of Memory Channels', 'value': '2'}
+{'element': 'Max Memory Bandwidth', 'value': '76.8 GB/s'}
+{'element': 'Direct Media Interface (DMI) Revision', 'value': '4.0'}
+{'element': 'Max # of DMI Lanes', 'value': '8'}
+{'element': 'Scalability', 'value': '1S Only'}
+{'element': 'PCI Express Revision', 'value': '5.0 and 4.0'}
+{'element': 'PCI Express Configurations ‡', 'value': 'Up to 1x16+4, 2x8+4'}
+{'element': 'Max # of PCI Express Lanes', 'value': '20'}
+{'element': 'Sockets Supported', 'value': 'FCLGA1700'}
+{'element': 'Max CPU Configuration', 'value': '1'}
+{'element': 'Thermal Solution Specification', 'value': 'PCG 2020C'}
+{'element': 'TJUNCTION', 'value': '100°C'}
+{'element': 'Package Size', 'value': '45.0 mm x 37.5 mm'}
+{'element': 'Intel® Gaussian & Neural Accelerator', 'value': '3.0'}
+{'element': 'Intel® Thread Director', 'value': 'No'}
+{'element': 'Intel® Deep Learning Boost (Intel® DL Boost)', 'value': 'Yes'}
+{'element': 'Intel® Optane™ Memory Supported ‡', 'value': 'Yes'}
+{'element': 'Intel® Speed Shift Technology', 'value': 'Yes'}
+{'element': 'Intel® Turbo Boost Max Technology 3.0 ‡', 'value': 'No'}
+{'element': 'Intel® Turbo Boost Technology ‡', 'value': '2.0'}
+{'element': 'Intel® Hyper-Threading Technology ‡', 'value': 'Yes'}
+{'element': 'Intel® 64 ‡', 'value': 'Yes'}
+{'element': 'Instruction Set', 'value': '64-bit'}
+{'element': 'Instruction Set Extensions', 'value': 'Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2'}
+{'element': 'Idle States', 'value': 'Yes'}
+{'element': 'Enhanced Intel SpeedStep® Technology', 'value': 'Yes'}
+{'element': 'Thermal Monitoring Technologies', 'value': 'Yes'}
+{'element': 'Intel® Volume Management Device (VMD)', 'value': 'Yes'}
+{'element': 'Intel® Standard Manageability (ISM) ‡', 'value': 'Yes'}
+{'element': 'Intel® AES New Instructions', 'value': 'Yes'}
+{'element': 'Secure Key', 'value': 'Yes'}
+{'element': 'Intel® OS Guard', 'value': 'Yes'}
+{'element': 'Execute Disable Bit ‡', 'value': 'Yes'}
+{'element': 'Intel® Boot Guard', 'value': 'Yes'}
+{'element': 'Mode-based Execute Control (MBEC)', 'value': 'Yes'}
+{'element': 'Intel® Control-Flow Enforcement Technology', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology (VT-x) ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology for Directed I/O (VT-d) ‡', 'value': 'Yes'}
+{'element': 'Intel® VT-x with Extended Page Tables (EPT) ‡', 'value': 'Yes'}

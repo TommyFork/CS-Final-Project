@@ -1,0 +1,77 @@
+{'element': 'url', 'value': 'https://ark.intel.com/products/135935/intel-core-i5-8259u-processor-6m-cache-up-to-3-80-ghz.html'}
+{'element': 'Product Collection', 'value': '8th Generation Intel® Core™ i5 Processors'}
+{'element': 'Code Name', 'value': 'Products formerly Coffee Lake'}
+{'element': 'Vertical Segment', 'value': 'Mobile'}
+{'element': 'Processor Number', 'value': 'i5-8259U'}
+{'element': 'Status', 'value': 'Launched'}
+{'element': 'Launch Date', 'value': "Q2'18"}
+{'element': 'Lithography', 'value': '14 nm'}
+{'element': 'Recommended Customer Price', 'value': '$320.00'}
+{'element': 'Total Cores', 'value': '4'}
+{'element': 'Total Threads', 'value': '8'}
+{'element': 'Max Turbo Frequency', 'value': '3.80 GHz'}
+{'element': 'Intel® Turbo Boost Technology 2.0 Frequency‡', 'value': '3.80 GHz'}
+{'element': 'Processor Base Frequency', 'value': '2.30 GHz'}
+{'element': 'Cache', 'value': '6 MB Intel® Smart Cache'}
+{'element': 'Bus Speed', 'value': '4 GT/s'}
+{'element': 'TDP', 'value': '28 W'}
+{'element': 'Configurable TDP-down Base Frequency', 'value': '1.10 GHz'}
+{'element': 'Configurable TDP-down', 'value': '20 W'}
+{'element': 'Embedded Options Available', 'value': 'No'}
+{'element': 'Datasheet', 'value': 'View now'}
+{'element': 'Max Memory Size (dependent on memory type)', 'value': '32 GB'}
+{'element': 'Memory Types', 'value': 'DDR4-2400, LPDDR3-2133'}
+{'element': 'Max # of Memory Channels', 'value': '2'}
+{'element': 'Max Memory Bandwidth', 'value': '37.5 GB/s'}
+{'element': 'ECC Memory Supported ‡', 'value': 'No'}
+{'element': 'Processor Graphics ‡', 'value': 'Intel® Iris® Plus Graphics 655'}
+{'element': 'Graphics Base Frequency', 'value': '300 MHz'}
+{'element': 'Graphics Max Dynamic Frequency', 'value': '1.05 GHz'}
+{'element': 'Graphics Video Max Memory', 'value': '32 GB'}
+{'element': 'eDRAM', 'value': '128 MB'}
+{'element': 'Graphics Output', 'value': 'eDP/DP/HDMI/DVI'}
+{'element': '4K Support', 'value': 'Yes, at 60Hz'}
+{'element': 'Max Resolution (HDMI)‡', 'value': '4096x2304@30Hz'}
+{'element': 'Max Resolution (DP)‡', 'value': '4096x2304@60Hz'}
+{'element': 'Max Resolution (eDP - Integrated Flat Panel)‡', 'value': '4096x2304@60Hz'}
+{'element': 'DirectX* Support', 'value': '12'}
+{'element': 'OpenGL* Support', 'value': '4.5'}
+{'element': 'Intel® Quick Sync Video', 'value': 'Yes'}
+{'element': 'Intel® InTru™ 3D Technology', 'value': 'Yes'}
+{'element': 'Intel® Clear Video HD Technology', 'value': 'Yes'}
+{'element': 'Intel® Clear Video Technology', 'value': 'Yes'}
+{'element': '# of Displays Supported ‡', 'value': '3'}
+{'element': 'Device ID', 'value': '0x3EA5'}
+{'element': 'PCI Express Revision', 'value': '3.0'}
+{'element': 'PCI Express Configurations ‡', 'value': '1x4, 2x2, 1x2+2x1 and 4x1'}
+{'element': 'Max # of PCI Express Lanes', 'value': '16'}
+{'element': 'Sockets Supported', 'value': 'FCBGA1528'}
+{'element': 'Max CPU Configuration', 'value': '1'}
+{'element': 'TJUNCTION', 'value': '100°C'}
+{'element': 'Package Size', 'value': '46x24'}
+{'element': 'Intel® Optane™ Memory Supported ‡', 'value': 'Yes'}
+{'element': 'Intel® Speed Shift Technology', 'value': 'Yes'}
+{'element': 'Intel® Turbo Boost Technology ‡', 'value': '2.0'}
+{'element': 'Intel® Hyper-Threading Technology ‡', 'value': 'Yes'}
+{'element': 'Intel® Transactional Synchronization Extensions', 'value': 'No'}
+{'element': 'Intel® 64 ‡', 'value': 'Yes'}
+{'element': 'Instruction Set', 'value': '64-bit'}
+{'element': 'Instruction Set Extensions', 'value': 'Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2'}
+{'element': 'Intel® My WiFi Technology', 'value': 'Yes'}
+{'element': 'Idle States', 'value': 'Yes'}
+{'element': 'Enhanced Intel SpeedStep® Technology', 'value': 'Yes'}
+{'element': 'Thermal Monitoring Technologies', 'value': 'Yes'}
+{'element': 'Intel® Flex Memory Access', 'value': 'Yes'}
+{'element': 'Intel® Identity Protection Technology ‡', 'value': 'Yes'}
+{'element': 'Intel vPro® Platform Eligibility ‡', 'value': 'No'}
+{'element': 'Intel® AES New Instructions', 'value': 'Yes'}
+{'element': 'Secure Key', 'value': 'Yes'}
+{'element': 'Intel® Software Guard Extensions (Intel® SGX)', 'value': 'Yes with Intel® ME'}
+{'element': 'Intel® Memory Protection Extensions (Intel® MPX)', 'value': 'Yes'}
+{'element': 'Intel® OS Guard', 'value': 'Yes'}
+{'element': 'Intel® Trusted Execution Technology ‡', 'value': 'No'}
+{'element': 'Execute Disable Bit ‡', 'value': 'Yes'}
+{'element': 'Intel® Stable IT Platform Program (SIPP)', 'value': 'No'}
+{'element': 'Intel® Virtualization Technology (VT-x) ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology for Directed I/O (VT-d) ‡', 'value': 'Yes'}
+{'element': 'Intel® VT-x with Extended Page Tables (EPT) ‡', 'value': 'Yes'}

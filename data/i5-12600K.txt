@@ -1,0 +1,94 @@
+{'element': 'url', 'value': 'https://ark.intel.com/content/www/us/en/ark/products/134589/intel-core-i512600k-processor-20m-cache-up-to-4-90-ghz.html'}
+{'element': 'Product Collection', 'value': '12th Generation Intel® Core™ i5 Processors'}
+{'element': 'Code Name', 'value': 'Products formerly Alder Lake'}
+{'element': 'Vertical Segment', 'value': 'Desktop'}
+{'element': 'Processor Number', 'value': 'i5-12600K'}
+{'element': 'Status', 'value': 'Launched'}
+{'element': 'Launch Date', 'value': "Q4'21"}
+{'element': 'Lithography', 'value': 'Intel 7'}
+{'element': 'Use Conditions', 'value': 'PC/Client/Tablet, Workstation'}
+{'element': 'Recommended Customer Price', 'value': '$289.00 - $299.00'}
+{'element': 'Total Cores', 'value': '10'}
+{'element': '# of Performance-cores', 'value': '6'}
+{'element': '# of Efficient-cores', 'value': '4'}
+{'element': 'Total Threads', 'value': '16'}
+{'element': 'Max Turbo Frequency', 'value': '4.90 GHz'}
+{'element': 'Performance-core Max Turbo Frequency', 'value': '4.90 GHz'}
+{'element': 'Efficient-core Max Turbo Frequency', 'value': '3.60 GHz'}
+{'element': 'Performance-core Base Frequency', 'value': '3.70 GHz'}
+{'element': 'Efficient-core Base Frequency', 'value': '2.80 GHz'}
+{'element': 'Cache', 'value': '20 MB Intel® Smart Cache'}
+{'element': 'Total L2 Cache', 'value': '9.5 MB'}
+{'element': 'Processor Base Power', 'value': '125 W'}
+{'element': 'Maximum Turbo Power', 'value': '150 W'}
+{'element': 'Embedded Options Available', 'value': 'No'}
+{'element': 'Datasheet', 'value': 'View now'}
+{'element': 'Max Memory Size (dependent on memory type)', 'value': '128 GB'}
+{'element': 'Memory Types', 'value': 'Up to DDR5 4800 MT/s'}
+{'element': 'Max # of Memory Channels', 'value': '2'}
+{'element': 'Max Memory Bandwidth', 'value': '76.8 GB/s'}
+{'element': 'ECC Memory Supported ‡', 'value': 'Yes'}
+{'element': 'Processor Graphics ‡', 'value': 'Intel® UHD Graphics 770'}
+{'element': 'Graphics Base Frequency', 'value': '300 MHz'}
+{'element': 'Graphics Max Dynamic Frequency', 'value': '1.45 GHz'}
+{'element': 'Graphics Output', 'value': 'eDP 1.4b, DP 1.4a, HDMI 2.1'}
+{'element': 'Execution Units', 'value': '32'}
+{'element': 'Max Resolution (HDMI)‡', 'value': '4096 x 2160 @ 60Hz'}
+{'element': 'Max Resolution (DP)‡', 'value': '7680 x 4320 @ 60Hz'}
+{'element': 'Max Resolution (eDP - Integrated Flat Panel)‡', 'value': '5120 x 3200 @ 120Hz'}
+{'element': 'DirectX* Support', 'value': '12'}
+{'element': 'OpenGL* Support', 'value': '4.5'}
+{'element': 'Multi-Format Codec Engines', 'value': '2'}
+{'element': 'Intel® Quick Sync Video', 'value': 'Yes'}
+{'element': 'Intel® Clear Video HD Technology', 'value': 'Yes'}
+{'element': '# of Displays Supported ‡', 'value': '4'}
+{'element': 'Device ID', 'value': '0x4680'}
+{'element': 'OpenCL* Support', 'value': '2.1'}
+{'element': 'Direct Media Interface (DMI) Revision', 'value': '4.0'}
+{'element': 'Max # of DMI Lanes', 'value': '8'}
+{'element': 'Scalability', 'value': '1S Only'}
+{'element': 'PCI Express Revision', 'value': '5.0 and 4.0'}
+{'element': 'PCI Express Configurations ‡', 'value': 'Up to 1x16+4, 2x8+4'}
+{'element': 'Max # of PCI Express Lanes', 'value': '20'}
+{'element': 'Sockets Supported', 'value': 'FCLGA1700'}
+{'element': 'Max CPU Configuration', 'value': '1'}
+{'element': 'Thermal Solution Specification', 'value': 'PCG 2020A'}
+{'element': 'TJUNCTION', 'value': '100°C'}
+{'element': 'Package Size', 'value': '45.0 mm x 37.5 mm'}
+{'element': 'Intel® Gaussian & Neural Accelerator', 'value': '3.0'}
+{'element': 'Intel® Thread Director', 'value': 'Yes'}
+{'element': 'Intel® Deep Learning Boost (Intel® DL Boost)', 'value': 'Yes'}
+{'element': 'Intel® Optane™ Memory Supported ‡', 'value': 'Yes'}
+{'element': 'Intel® Speed Shift Technology', 'value': 'Yes'}
+{'element': 'Intel® Turbo Boost Max Technology 3.0 ‡', 'value': 'No'}
+{'element': 'Intel® Turbo Boost Technology ‡', 'value': '2.0'}
+{'element': 'Intel® Hyper-Threading Technology ‡', 'value': 'Yes'}
+{'element': 'Intel® 64 ‡', 'value': 'Yes'}
+{'element': 'Instruction Set', 'value': '64-bit'}
+{'element': 'Instruction Set Extensions', 'value': 'Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2'}
+{'element': 'Idle States', 'value': 'Yes'}
+{'element': 'Enhanced Intel SpeedStep® Technology', 'value': 'Yes'}
+{'element': 'Thermal Monitoring Technologies', 'value': 'Yes'}
+{'element': 'Intel® Volume Management Device (VMD)', 'value': 'Yes'}
+{'element': 'Intel vPro® Platform Eligibility ‡', 'value': 'Yes'}
+{'element': 'Intel vPro® Enterprise Platform Eligibility ‡', 'value': 'Yes'}
+{'element': 'Intel® Threat Detection Technology (TDT)', 'value': 'Yes'}
+{'element': 'Intel® Active Management Technology (AMT) ‡', 'value': 'Yes'}
+{'element': 'Intel® Standard Manageability (ISM) ‡', 'value': 'Yes'}
+{'element': 'Intel® One-Click Recovery ‡', 'value': 'Yes'}
+{'element': 'Intel® Hardware Shield Eligibility ‡', 'value': 'Yes'}
+{'element': 'Intel® AES New Instructions', 'value': 'Yes'}
+{'element': 'Secure Key', 'value': 'Yes'}
+{'element': 'Intel® OS Guard', 'value': 'Yes'}
+{'element': 'Intel® Trusted Execution Technology ‡', 'value': 'Yes'}
+{'element': 'Execute Disable Bit ‡', 'value': 'Yes'}
+{'element': 'Intel® Boot Guard', 'value': 'Yes'}
+{'element': 'Mode-based Execute Control (MBEC)', 'value': 'Yes'}
+{'element': 'Intel® Control-Flow Enforcement Technology', 'value': 'Yes'}
+{'element': 'Intel® Total Memory Encryption - Multi Key', 'value': 'Yes'}
+{'element': 'Intel® Total Memory Encryption', 'value': 'Yes'}
+{'element': 'Intel® Stable IT Platform Program (SIPP)', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology with Redirect Protection (VT-rp) ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology (VT-x) ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology for Directed I/O (VT-d) ‡', 'value': 'Yes'}
+{'element': 'Intel® VT-x with Extended Page Tables (EPT) ‡', 'value': 'Yes'}

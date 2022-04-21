@@ -1,0 +1,77 @@
+{'element': 'url', 'value': 'https://ark.intel.com/products/95598/intel-celeron-processor-n3350-2m-cache-up-to-2-4-ghz.html'}
+{'element': 'Product Collection', 'value': 'Intel® Celeron® Processor N Series'}
+{'element': 'Code Name', 'value': 'Products formerly Apollo Lake'}
+{'element': 'Vertical Segment', 'value': 'Mobile'}
+{'element': 'Processor Number', 'value': 'N3350'}
+{'element': 'Status', 'value': 'Launched'}
+{'element': 'Launch Date', 'value': "Q3'16"}
+{'element': 'Lithography', 'value': '14 nm'}
+{'element': 'Use Conditions', 'value': 'PC/Client/Tablet'}
+{'element': 'Recommended Customer Price', 'value': '$24.00'}
+{'element': 'Total Cores', 'value': '2'}
+{'element': 'Total Threads', 'value': '2'}
+{'element': 'Burst Frequency', 'value': '2.40 GHz'}
+{'element': 'Processor Base Frequency', 'value': '1.10 GHz'}
+{'element': 'Cache', 'value': '2 MB L2 Cache'}
+{'element': 'Scenario Design Power (SDP)', 'value': '4 W'}
+{'element': 'TDP', 'value': '6 W'}
+{'element': 'Embedded Options Available', 'value': 'Yes'}
+{'element': 'Datasheet', 'value': 'View now'}
+{'element': 'Max Memory Size (dependent on memory type)', 'value': '8 GB'}
+{'element': 'Memory Types', 'value': 'DDR3L/LPDDR3 up to 1866 MT/s;'}
+{'element': 'Max # of Memory Channels', 'value': '2'}
+{'element': 'ECC Memory Supported ‡', 'value': 'No'}
+{'element': 'Processor Graphics ‡', 'value': 'Intel® HD Graphics 500'}
+{'element': 'Graphics Base Frequency', 'value': '200 MHz'}
+{'element': 'Graphics Burst Frequency', 'value': '650 MHz'}
+{'element': 'Graphics Video Max Memory', 'value': '8 GB'}
+{'element': 'Graphics Output', 'value': 'eDP/DP/HDMI/MIPI-DSI'}
+{'element': 'Execution Units', 'value': '12'}
+{'element': 'DirectX* Support', 'value': 'Yes'}
+{'element': 'OpenGL* Support', 'value': 'Yes'}
+{'element': 'Intel® Quick Sync Video', 'value': 'Yes'}
+{'element': 'Intel® InTru™ 3D Technology', 'value': 'No'}
+{'element': 'Intel® Clear Video HD Technology', 'value': 'Yes'}
+{'element': 'Intel® Clear Video Technology', 'value': 'Yes'}
+{'element': '# of Displays Supported ‡', 'value': '3'}
+{'element': 'Device ID', 'value': '0x5A85'}
+{'element': 'PCI Express Revision', 'value': '2.0'}
+{'element': 'PCI Express Configurations ‡', 'value': '1x4 + 1x2 or 4x1 or 2x1+1x2 + 1x2'}
+{'element': 'Max # of PCI Express Lanes', 'value': '6'}
+{'element': '# of USB Ports', 'value': '8'}
+{'element': 'USB Revision', 'value': '2.0/3.0'}
+{'element': 'Total # of SATA Ports', 'value': '2'}
+{'element': 'Integrated LAN', 'value': 'No'}
+{'element': 'General Purpose IO', 'value': 'Yes'}
+{'element': 'UART', 'value': 'Yes'}
+{'element': 'Max # of SATA 6.0 Gb/s Ports', 'value': '2'}
+{'element': 'Sockets Supported', 'value': 'FCBGA1296'}
+{'element': 'Max CPU Configuration', 'value': '1'}
+{'element': 'TJUNCTION', 'value': '105°C'}
+{'element': 'Package Size', 'value': '24mm x 31mm'}
+{'element': 'Intel® Turbo Boost Technology ‡', 'value': 'No'}
+{'element': 'Intel vPro® Platform Eligibility ‡', 'value': 'No'}
+{'element': 'Secure Boot', 'value': 'Yes'}
+{'element': 'Intel® Hyper-Threading Technology ‡', 'value': 'No'}
+{'element': 'Intel® Virtualization Technology (VT-x) ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology for Directed I/O (VT-d) ‡', 'value': 'Yes'}
+{'element': 'Intel® VT-x with Extended Page Tables (EPT) ‡', 'value': 'Yes'}
+{'element': 'Intel® 64 ‡', 'value': 'Yes'}
+{'element': 'Instruction Set', 'value': '64-bit'}
+{'element': 'Idle States', 'value': 'Yes'}
+{'element': 'Enhanced Intel SpeedStep® Technology', 'value': 'Yes'}
+{'element': 'Thermal Monitoring Technologies', 'value': 'Yes'}
+{'element': 'Intel® HD Audio Technology', 'value': 'Yes'}
+{'element': 'Intel® Identity Protection Technology ‡', 'value': 'Yes'}
+{'element': 'Intel® Rapid Storage Technology', 'value': 'No'}
+{'element': 'Intel® Smart Connect Technology', 'value': 'No'}
+{'element': 'Intel® Stable IT Platform Program (SIPP)', 'value': 'No'}
+{'element': 'Intel® Smart Response Technology', 'value': 'No'}
+{'element': 'Intel® Virtualization Technology for Itanium (VT-i)', 'value': 'No'}
+{'element': 'Intel® AES New Instructions', 'value': 'Yes'}
+{'element': 'Secure Key', 'value': 'Yes'}
+{'element': 'Intel® Memory Protection Extensions (Intel® MPX)', 'value': 'Yes'}
+{'element': 'Intel® Trusted Execution Technology ‡', 'value': 'No'}
+{'element': 'Execute Disable Bit ‡', 'value': 'Yes'}
+{'element': 'Anti-Theft Technology', 'value': 'No'}
+{'element': 'Intel® OS Guard', 'value': 'Yes'}

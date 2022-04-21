@@ -1,0 +1,76 @@
+{'element': 'url', 'value': 'https://ark.intel.com/content/www/us/en/ark/products/219436/intel-pentium-gold-g7400t-processor-6m-cache-3-10-ghz.html'}
+{'element': 'Product Collection', 'value': 'Intel® Pentium® Gold Processor Series'}
+{'element': 'Code Name', 'value': 'Products formerly Alder Lake'}
+{'element': 'Vertical Segment', 'value': 'Desktop'}
+{'element': 'Processor Number', 'value': 'G7400T'}
+{'element': 'Status', 'value': 'Launched'}
+{'element': 'Launch Date', 'value': "Q1'22"}
+{'element': 'Lithography', 'value': 'Intel 7'}
+{'element': 'Use Conditions', 'value': 'PC/Client/Tablet'}
+{'element': 'Recommended Customer Price', 'value': '$64.00'}
+{'element': 'Total Cores', 'value': '2'}
+{'element': '# of Performance-cores', 'value': '2'}
+{'element': '# of Efficient-cores', 'value': '0'}
+{'element': 'Total Threads', 'value': '4'}
+{'element': 'Performance-core Base Frequency', 'value': '3.10 GHz'}
+{'element': 'Cache', 'value': '6 MB Intel® Smart Cache'}
+{'element': 'Total L2 Cache', 'value': '2.5 MB'}
+{'element': 'Processor Base Power', 'value': '35 W'}
+{'element': 'Embedded Options Available', 'value': 'No'}
+{'element': 'Max Memory Size (dependent on memory type)', 'value': '128 GB'}
+{'element': 'Memory Types', 'value': 'Up to DDR5 4800 MT/s'}
+{'element': 'Max # of Memory Channels', 'value': '2'}
+{'element': 'Max Memory Bandwidth', 'value': '76.8 GB/s'}
+{'element': 'Processor Graphics ‡', 'value': 'Intel® UHD Graphics 710'}
+{'element': 'Graphics Base Frequency', 'value': '300 MHz'}
+{'element': 'Graphics Max Dynamic Frequency', 'value': '1.35 GHz'}
+{'element': 'Graphics Output', 'value': 'eDP 1.4b, DP 1.4a, HDMI 2.1'}
+{'element': 'Execution Units', 'value': '16'}
+{'element': 'Max Resolution (HDMI)‡', 'value': '4096 x 2160 @ 60Hz'}
+{'element': 'Max Resolution (DP)‡', 'value': '7680 x 4320 @ 60Hz'}
+{'element': 'Max Resolution (eDP - Integrated Flat Panel)‡', 'value': '5120 x 3200 @ 120Hz'}
+{'element': 'DirectX* Support', 'value': '12'}
+{'element': 'OpenGL* Support', 'value': '4.5'}
+{'element': 'Multi-Format Codec Engines', 'value': '1'}
+{'element': 'Intel® Quick Sync Video', 'value': 'Yes'}
+{'element': 'Intel® Clear Video HD Technology', 'value': 'Yes'}
+{'element': '# of Displays Supported ‡', 'value': '4'}
+{'element': 'Device ID', 'value': '0x4693'}
+{'element': 'OpenCL* Support', 'value': '2.1'}
+{'element': 'Direct Media Interface (DMI) Revision', 'value': '4.0'}
+{'element': 'Max # of DMI Lanes', 'value': '8'}
+{'element': 'Scalability', 'value': '1S Only'}
+{'element': 'PCI Express Revision', 'value': '5.0 and 4.0'}
+{'element': 'PCI Express Configurations ‡', 'value': 'Up to 1x16+4, 2x8+4'}
+{'element': 'Max # of PCI Express Lanes', 'value': '20'}
+{'element': 'Sockets Supported', 'value': 'FCLGA1700'}
+{'element': 'Max CPU Configuration', 'value': '1'}
+{'element': 'Thermal Solution Specification', 'value': 'PCG 2020D'}
+{'element': 'TJUNCTION', 'value': '100°C'}
+{'element': 'Package Size', 'value': '45.0 mm x 37.5 mm'}
+{'element': 'Intel® Gaussian & Neural Accelerator', 'value': '3.0'}
+{'element': 'Intel® Thread Director', 'value': 'No'}
+{'element': 'Intel® Deep Learning Boost (Intel® DL Boost)', 'value': 'Yes'}
+{'element': 'Intel® Optane™ Memory Supported ‡', 'value': 'Yes'}
+{'element': 'Intel® Speed Shift Technology', 'value': 'Yes'}
+{'element': 'Intel® Turbo Boost Max Technology 3.0 ‡', 'value': 'No'}
+{'element': 'Intel® Turbo Boost Technology ‡', 'value': 'No'}
+{'element': 'Intel® Hyper-Threading Technology ‡', 'value': 'Yes'}
+{'element': 'Intel® 64 ‡', 'value': 'Yes'}
+{'element': 'Instruction Set', 'value': '64-bit'}
+{'element': 'Instruction Set Extensions', 'value': 'Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2'}
+{'element': 'Idle States', 'value': 'Yes'}
+{'element': 'Enhanced Intel SpeedStep® Technology', 'value': 'Yes'}
+{'element': 'Thermal Monitoring Technologies', 'value': 'Yes'}
+{'element': 'Intel® Volume Management Device (VMD)', 'value': 'Yes'}
+{'element': 'Intel® Standard Manageability (ISM) ‡', 'value': 'Yes'}
+{'element': 'Intel® AES New Instructions', 'value': 'Yes'}
+{'element': 'Secure Key', 'value': 'Yes'}
+{'element': 'Intel® OS Guard', 'value': 'Yes'}
+{'element': 'Execute Disable Bit ‡', 'value': 'Yes'}
+{'element': 'Intel® Boot Guard', 'value': 'Yes'}
+{'element': 'Mode-based Execute Control (MBEC)', 'value': 'Yes'}
+{'element': 'Intel® Control-Flow Enforcement Technology', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology (VT-x) ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology for Directed I/O (VT-d) ‡', 'value': 'Yes'}
+{'element': 'Intel® VT-x with Extended Page Tables (EPT) ‡', 'value': 'Yes'}

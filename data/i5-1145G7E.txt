@@ -1,0 +1,76 @@
+{'element': 'url', 'value': 'https://ark.intel.com/content/www/us/en/ark/products/208081/intel-core-i51145g7e-processor-8m-cache-up-to-4-10-ghz.html'}
+{'element': 'Product Collection', 'value': '11th Generation Intel® Core™ i5 Processors'}
+{'element': 'Code Name', 'value': 'Products formerly Tiger Lake'}
+{'element': 'Vertical Segment', 'value': 'Embedded'}
+{'element': 'Processor Number', 'value': 'i5-1145G7E'}
+{'element': 'Status', 'value': 'Launched'}
+{'element': 'Launch Date', 'value': "Q3'20"}
+{'element': 'Lithography', 'value': '10 nm SuperFin'}
+{'element': 'Use Conditions', 'value': 'Embedded Broad Market Commercial Temp'}
+{'element': 'Recommended Customer Price', 'value': '$312.00'}
+{'element': 'Total Cores', 'value': '4'}
+{'element': 'Total Threads', 'value': '8'}
+{'element': 'Max Turbo Frequency', 'value': '4.10 GHz'}
+{'element': 'Processor Base Frequency', 'value': '1.50 GHz'}
+{'element': 'Cache', 'value': '8 MB Intel® Smart Cache'}
+{'element': 'Bus Speed', 'value': '4 GT/s'}
+{'element': 'TDP', 'value': '15 W'}
+{'element': 'Configurable TDP-up Base Frequency', 'value': '2.60 GHz'}
+{'element': 'Configurable TDP-up', 'value': '28 W'}
+{'element': 'Configurable TDP-down Base Frequency', 'value': '1.10 GHz'}
+{'element': 'Configurable TDP-down', 'value': '12 W'}
+{'element': 'Embedded Options Available', 'value': 'Yes'}
+{'element': 'Max Memory Size (dependent on memory type)', 'value': '64 GB'}
+{'element': 'Memory Types', 'value': 'DDR4-3200, LPDDR4x-4267'}
+{'element': 'Max # of Memory Channels', 'value': '2'}
+{'element': 'ECC Memory Supported ‡', 'value': 'No'}
+{'element': 'Processor Graphics ‡', 'value': 'Intel® Iris® Xe Graphics'}
+{'element': 'Graphics Max Dynamic Frequency', 'value': '1.30 GHz'}
+{'element': 'Graphics Output', 'value': 'eDP 1.4b, MIPI-DSI 2.0, DP 1.4, HDMI 2.0b'}
+{'element': 'Execution Units', 'value': '80'}
+{'element': 'Max Resolution (HDMI)‡', 'value': '4096x2304@60Hz'}
+{'element': 'Max Resolution (DP)‡', 'value': '7680x4320@60Hz'}
+{'element': 'Max Resolution (eDP - Integrated Flat Panel)‡', 'value': '4096x2304@60Hz'}
+{'element': 'DirectX* Support', 'value': '12.1'}
+{'element': 'OpenGL* Support', 'value': '4.6'}
+{'element': 'Intel® Quick Sync Video', 'value': 'Yes'}
+{'element': 'Intel® Clear Video HD Technology', 'value': 'Yes'}
+{'element': '# of Displays Supported ‡', 'value': '4'}
+{'element': 'Device ID', 'value': '0x9A49'}
+{'element': 'OpenCL* Support', 'value': '2.0'}
+{'element': 'Intel® Thunderbolt™ 4', 'value': 'Yes'}
+{'element': 'Microprocessor PCIe Revision', 'value': 'Gen 4'}
+{'element': 'Chipset / PCH PCIe Revision', 'value': 'Gen 3'}
+{'element': 'Sockets Supported', 'value': 'FCBGA1449'}
+{'element': 'Max CPU Configuration', 'value': '1'}
+{'element': 'TJUNCTION', 'value': '100C'}
+{'element': 'Operating Temperature Range', 'value': '0°C to 100°C'}
+{'element': 'Operating Temperature (Maximum)', 'value': '100 °C'}
+{'element': 'Package Size', 'value': '46.5x25'}
+{'element': 'Operating Temperature (Minimum)', 'value': '0 °C'}
+{'element': 'Intel® Gaussian & Neural Accelerator', 'value': '2.0'}
+{'element': 'Intel® Image Processing Unit', 'value': '6.0'}
+{'element': 'Intel® Smart Sound Technology', 'value': 'Yes'}
+{'element': 'Intel® High Definition Audio', 'value': 'Yes'}
+{'element': 'MIPI SoundWire*', 'value': '1.1'}
+{'element': 'Intel® Deep Learning Boost (Intel® DL Boost)', 'value': 'Yes'}
+{'element': 'Intel® Speed Shift Technology', 'value': 'Yes'}
+{'element': 'Intel® Turbo Boost Technology ‡', 'value': '2.0'}
+{'element': 'Intel® Hyper-Threading Technology ‡', 'value': 'Yes'}
+{'element': 'Instruction Set', 'value': '64-bit'}
+{'element': 'Instruction Set Extensions', 'value': 'Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2, Intel® AVX-512'}
+{'element': 'Idle States', 'value': 'Yes'}
+{'element': 'Thermal Monitoring Technologies', 'value': 'Yes'}
+{'element': 'Intel® Volume Management Device (VMD)', 'value': 'Yes'}
+{'element': 'Intel vPro® Platform Eligibility ‡', 'value': 'Yes'}
+{'element': 'Intel® AES New Instructions', 'value': 'Yes'}
+{'element': 'Intel® Software Guard Extensions (Intel® SGX)', 'value': 'No'}
+{'element': 'Intel® Trusted Execution Technology ‡', 'value': 'Yes'}
+{'element': 'Intel® OS Guard', 'value': 'Yes'}
+{'element': 'Intel® Boot Guard', 'value': 'Yes'}
+{'element': 'Mode-based Execute Control (MBEC)', 'value': 'Yes'}
+{'element': 'Intel® Control-Flow Enforcement Technology', 'value': 'Yes'}
+{'element': 'Intel® Total Memory Encryption', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology (VT-x) ‡', 'value': 'Yes'}
+{'element': 'Intel® Virtualization Technology for Directed I/O (VT-d) ‡', 'value': 'Yes'}
+{'element': 'Intel® VT-x with Extended Page Tables (EPT) ‡', 'value': 'Yes'}
